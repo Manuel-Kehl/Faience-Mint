@@ -62,17 +62,17 @@ font-size: 8pt;
 .panel-menu {
 }
 .popup-submenu-menu-item:open {
-    background-gradient-start: #c1cfdf;
-    background-gradient-end: #b8c8da;
+    background-gradient-start: #b7d497;
+    background-gradient-end: #c3dda8;
     background-gradient-direction: vertical;
     border: 0px solid #bfd4a9;
     border-bottom-width: 1px;
 }
 .popup-sub-menu {
-background-gradient-start: #d4dae1;
-    background-gradient-end: #e1e5ea;
+background-gradient-start: #cfe7b5;
+    background-gradient-end: #d8e8c6;
     background-gradient-direction: vertical;
-    border: 0px solid #d4dae1;
+    border: 0px solid #cfe7b5;
     border-bottom-width: 1px;
 }
 .popup-sub-menu StScrollBar {
