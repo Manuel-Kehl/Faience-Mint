@@ -9,11 +9,11 @@ stage {
     transition-duration: 150;
 }
 .cinnamon-link {
-    color: #4784de;
+    color: #accd8a;
     text-decoration: underline;
 }
 .cinnamon-link:hover {
-    color: #3478db;
+    color: #c4e89e;
 }
 StScrollBar {
 padding: 0px;
@@ -65,7 +65,7 @@ font-size: 8pt;
     background-gradient-start: #c1cfdf;
     background-gradient-end: #b8c8da;
     background-gradient-direction: vertical;
-    border: 0px solid #99b1c9;
+    border: 0px solid #bfd4a9;
     border-bottom-width: 1px;
 }
 .popup-sub-menu {
@@ -94,11 +94,11 @@ padding: 4px;
     border-bottom-width: 1px;
 }
 .popup-menu-item:active {
-    background-gradient-start: #5990e1;
-    background-gradient-end: #3478db;
+    background-gradient-start: #86b158;
+    background-gradient-end: #c4e89e;
     background-gradient-direction: vertical;
     color: rgba(255,255,255,0.9);
-    border-color: #3374D4;
+    border-color: #c3dda8;
 }
 .popup-menu-item:insensitive {
     color: #aaa;
@@ -124,11 +124,11 @@ padding: 4px;
     -slider-height: 2px;
     -slider-background-color: rgba(0,0,0,0.15);
     -slider-border-color: rgba(0,0,0,0.15);
-    -slider-active-background-color: #4784de;
-    -slider-active-border-color: #3478db;
+    -slider-active-background-color: #accd8a;
+    -slider-active-border-color: #c4e89e;
     -slider-border-width: 0px;
     -slider-handle-radius: 4px;
-    color: #3478db;
+    color: #c4e89e;
 }
 .popup-menu-item:active .popup-slider-menu-item {
     -slider-background-color: rgba(0,0,0,0.2);
@@ -700,7 +700,7 @@ spacing: 10px;
     font-size: 12pt;
     caret-size: 1px;
     selected-color: white;
-    selection-background-color: #4784de;
+    selection-background-color: #accd8a;
     padding: 6px 8px;
 }
 .run-dialog {
@@ -843,11 +843,11 @@ padding: 0px 7px;
 .menu-application-button-selected {
 height: 36px;
 padding: 0px 7px;
-    background-gradient-start: #5990e1;
-    background-gradient-end: #3478db;
+    background-gradient-start: #86b158;
+    background-gradient-end: #c4e89e;
     background-gradient-direction: vertical;
     color: rgba(255,255,255,0.9);
-    border-color: #3374D4;
+    border-color: #c3dda8;
 border-radius: 6px;
 }
 .menu-application-button-label:ltr {
@@ -868,11 +868,11 @@ color: #aaa;
 .menu-category-button-selected {
 height: 36px;
 padding: 0px 7px;
-    background-gradient-start: #5990e1;
-    background-gradient-end: #3478db;
+    background-gradient-start: #86b158;
+    background-gradient-end: #c4e89e;
     background-gradient-direction: vertical;
     color: rgba(255,255,255,0.9);
-    border-color: #3374D4;
+    border-color: #c3dda8;
 border-radius: 6px;
 }
 .menu-category-button-label:ltr {
@@ -909,7 +909,7 @@ color: #333;
     font-size: 12pt;
     caret-size: 1px;
     selected-color: white;
-    selection-background-color: #4784de;
+    selection-background-color: #accd8a;
     padding: 0px 8px;
 width: 15em;
 height: 30px;
@@ -1093,7 +1093,7 @@ spacing: 25px;
     font-size: 12pt;
     caret-size: 1px;
     selected-color: white;
-    selected-background-color: #4784de;
+    selected-background-color: #accd8a;
     padding: 6px 8px;
     border-image: url("search-entry.png") 5;
     transition-duration: 100;
