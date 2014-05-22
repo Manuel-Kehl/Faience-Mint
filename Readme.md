@@ -1,7 +1,7 @@
 ##Credits
 
-This Cinnamon theme is based on "Faience+" by bimsebasse 
-which is a port of the original "Faience" Gnome Shell theme by tiheum.
+This Cinnamon theme is based on ["Faience+"](http://cinnamon-spices.linuxmint.com/themes/view/148) by bimsebasse 
+which is a port of the original ["Faience" Gnome Shell theme](http://tiheum.deviantart.com/art/GTK3-Gnome-Shell-Faience-255097456) by tiheum.
 All credits go to these authors for their work!
 
 ##Features
