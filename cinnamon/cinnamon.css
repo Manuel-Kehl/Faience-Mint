@@ -13,7 +13,7 @@ stage {
     text-decoration: underline;
 }
 .cinnamon-link:hover {
-    color: #c4e89e;
+    color: #a1bb85;
 }
 StScrollBar {
 padding: 0px;
@@ -94,8 +94,8 @@ padding: 4px;
     border-bottom-width: 1px;
 }
 .popup-menu-item:active {
-    background-gradient-start: #86b158;
-    background-gradient-end: #c4e89e;
+    background-gradient-start: #7b9e56;
+    background-gradient-end: #a1bb85;
     background-gradient-direction: vertical;
     color: rgba(255,255,255,0.9);
     border-color: #c3dda8;
@@ -125,10 +125,10 @@ padding: 4px;
     -slider-background-color: rgba(0,0,0,0.15);
     -slider-border-color: rgba(0,0,0,0.15);
     -slider-active-background-color: #accd8a;
-    -slider-active-border-color: #c4e89e;
+    -slider-active-border-color: #a1bb85;
     -slider-border-width: 0px;
     -slider-handle-radius: 4px;
-    color: #c4e89e;
+    color: #a1bb85;
 }
 .popup-menu-item:active .popup-slider-menu-item {
     -slider-background-color: rgba(0,0,0,0.2);
@@ -843,8 +843,8 @@ padding: 0px 7px;
 .menu-application-button-selected {
 height: 36px;
 padding: 0px 7px;
-    background-gradient-start: #86b158;
-    background-gradient-end: #c4e89e;
+    background-gradient-start: #7b9e56;
+    background-gradient-end: #a1bb85;
     background-gradient-direction: vertical;
     color: rgba(255,255,255,0.9);
     border-color: #c3dda8;
@@ -868,8 +868,8 @@ color: #aaa;
 .menu-category-button-selected {
 height: 36px;
 padding: 0px 7px;
-    background-gradient-start: #86b158;
-    background-gradient-end: #c4e89e;
+    background-gradient-start: #7b9e56;
+    background-gradient-end: #a1bb85;
     background-gradient-direction: vertical;
     color: rgba(255,255,255,0.9);
     border-color: #c3dda8;
